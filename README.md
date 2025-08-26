@@ -10,30 +10,30 @@ A comprehensive Fitness Analytics Dashboard designed to track member health, vis
 
 ### 📍 1. **Home Page**
 
-Clean landing interface introducing the fitness dashboard.
+- Clean landing interface introducing the fitness dashboard.
 
-Quick access navigation to:
+- Quick access navigation to:
 
-Overall Dashboard
+- Overall Dashboard
 
-Calculator
+- Calculator
 
-Members section
+- Members section
 
--
+
 
 ### 📍 2. **Overall Dashboard**
 
 
-Revenue, Expenses, and Profit visualized monthly.
+- Revenue, Expenses, and Profit visualized monthly.
 
-Membership types (Platinum, Gold, Silver) breakdown.
+- Membership types (Platinum, Gold, Silver) breakdown.
 
-Toggle between Active and Expired memberships.
+- Toggle between Active and Expired memberships.
 
-Monthly new member trend bar graph.
+- Monthly new member trend bar graph.
 
-Client Membership Progress tracking with percentage visuals.
+- Client Membership Progress tracking with percentage visuals.
 
 
 ### 📍 3. **Calorie Calculator**
@@ -41,25 +41,25 @@ Client Membership Progress tracking with percentage visuals.
 
 **Calculates:**
 
-**BMR** (Basal Metabolic Rate)
+-  **BMR** (Basal Metabolic Rate)
 
-**TDEE** (Total Daily Energy Expenditure)
+-  **TDEE** (Total Daily Energy Expenditure)
 
-Calorie recommendations for maintenance, mild, regular, and extreme weight loss.
+-  Calorie recommendations for maintenance, mild, regular, and extreme weight loss.
 
 **Dynamic inputs:**
 
-Age, Height, Weight, Gender, and Activity Level
+- Age, Height, Weight, Gender, and Activity Level
 
-BMI Calculator with classification (e.g., Overweight)
+- BMI Calculator with classification (e.g., Overweight)
 
 
 ### 📍 4. **Members Dashboard**
 
-Members by Age & Gender bar charts.
+- Members by Age & Gender bar charts.
 
-Active vs Expired Memberships by age group.
+- Active vs Expired Memberships by age group.
 
-**Detailed member table:**
+- **Detailed member table:**
 
-Name, Gender, Join Date, Fitness Goal, Age, Membership Status, Progress %, BMI
+- Name, Gender, Join Date, Fitness Goal, Age, Membership Status, Progress %, BMI
