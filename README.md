@@ -7,7 +7,7 @@ A comprehensive Fitness Analytics Dashboard designed to track member health, vis
 ---
 
 ## 📌 **Features Overview**
----
+
 ### 📍 1. **Home Page**
 
 Clean landing interface introducing the fitness dashboard.
@@ -20,10 +20,10 @@ Calculator
 
 Members section
 
--
+
 ### 📍 2. **Overall Dashboard**
 
--
+
 Revenue, Expenses, and Profit visualized monthly.
 
 Membership types (Platinum, Gold, Silver) breakdown.
@@ -34,8 +34,9 @@ Monthly new member trend bar graph.
 
 Client Membership Progress tracking with percentage visuals.
 
--
+
 ### 📍 3. **Calorie Calculator**
+
 
 **Calculates:**
 
@@ -51,7 +52,7 @@ Age, Height, Weight, Gender, and Activity Level
 
 BMI Calculator with classification (e.g., Overweight)
 
--
+
 ### 📍 4. **Members Dashboard**
 
 Members by Age & Gender bar charts.
