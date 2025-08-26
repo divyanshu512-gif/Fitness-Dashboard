@@ -72,3 +72,15 @@ A comprehensive Fitness Analytics Dashboard designed to track member health, vis
 - Calorie and BMI calculators offer personalized health tracking.
 
 - Membership trends support business forecasting.
+
+---
+
+## Tools & Technologies Used
+
+- **Excel / SQL** (for data cleaning)
+
+- **Power BI** (for data visiualization and interactive dashboard)
+
+- **Figma** (it is use show a good looking background)
+
+- **GitHub** for version control and project showcase
