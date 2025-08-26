@@ -59,7 +59,7 @@ A comprehensive Fitness Analytics Dashboard designed to track member health, vis
 
 - **Detailed member table:**
 
-- Name, Gender, Join Date, Fitness Goal, Age, Membership Status, Progress %, BMI
+   - Name, Gender, Join Date, Fitness Goal, Age, Membership Status, Progress %, BMI
 
 ---
 
