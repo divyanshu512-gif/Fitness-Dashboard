@@ -61,6 +61,8 @@ A comprehensive Fitness Analytics Dashboard designed to track member health, vis
 
 - Name, Gender, Join Date, Fitness Goal, Age, Membership Status, Progress %, BMI
 
+---
+
 ## 🎯 Key Insights Delivered
 
 - Visual segmentation of user demographics helps in targeted fitness program design.
