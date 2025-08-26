@@ -107,3 +107,11 @@ A comprehensive Fitness Analytics Dashboard designed to track member health, vis
 
 - Showcased end-to-end insight generation.
 
+---
+
+## 📬 Contact
+
+- **Divyanshu Singh**
+- 📧 divyanshus317@gmail.com
+
+
