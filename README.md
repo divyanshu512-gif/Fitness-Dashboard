@@ -97,3 +97,13 @@ A comprehensive Fitness Analytics Dashboard designed to track member health, vis
 |----------|-----------|
 | ![Calculator](https://github.com/divyanshu512-gif/Fitness-Dashboard/blob/main/Calculator%20Screenshot.png) | ![Members](https://github.com/divyanshu512-gif/Fitness-Dashboard/blob/main/Members%20Screenshot.png) |
 
+---
+
+## 🧠 Learning Outcome
+
+- Built a real-world data analytics dashboard from scratch.
+
+- Practiced using KPIs, visuals, and storytelling techniques.
+
+- Showcased end-to-end insight generation.
+
