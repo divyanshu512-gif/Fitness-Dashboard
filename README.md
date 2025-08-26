@@ -20,6 +20,7 @@ Calculator
 
 Members section
 
+-
 
 ### 📍 2. **Overall Dashboard**
 
@@ -59,6 +60,6 @@ Members by Age & Gender bar charts.
 
 Active vs Expired Memberships by age group.
 
-Detailed member table:
+**Detailed member table:**
 
 Name, Gender, Join Date, Fitness Goal, Age, Membership Status, Progress %, BMI
