@@ -20,10 +20,8 @@ A comprehensive Fitness Analytics Dashboard designed to track member health, vis
 
 - Members section
 
---
 
 ### 📍 2. **Overall Dashboard**
-
 
 - Revenue, Expenses, and Profit visualized monthly.
 
@@ -35,9 +33,8 @@ A comprehensive Fitness Analytics Dashboard designed to track member health, vis
 
 - Client Membership Progress tracking with percentage visuals.
 
---
-### 📍 3. **Calorie Calculator**
 
+### 📍 3. **Calorie Calculator**
 
 **Calculates:**
 
@@ -53,7 +50,7 @@ A comprehensive Fitness Analytics Dashboard designed to track member health, vis
 
 - BMI Calculator with classification (e.g., Overweight)
 
---
+
 ### 📍 4. **Members Dashboard**
 
 - Members by Age & Gender bar charts.
