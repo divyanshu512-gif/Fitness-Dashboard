@@ -90,12 +90,10 @@ A comprehensive Fitness Analytics Dashboard designed to track member health, vis
 ## Perview
 
 | Home | Overall|
-| ------ | -------- |
-
+|------|--------|
 | ![Home](https://github.com/divyanshu512-gif/Fitness-Dashboard/blob/main/Home%20Screenshot.png) | ![Overall](https://github.com/divyanshu512-gif/Fitness-Dashboard/blob/main/Overall%20Screenshot.png) |
 
 | Calculator | Members|
-|-------- | -------- |
-
+|----------|-----------|
 | ![Calculator](https://github.com/divyanshu512-gif/Fitness-Dashboard/blob/main/Calculator%20Screenshot.png) | ![Members](https://github.com/divyanshu512-gif/Fitness-Dashboard/blob/main/Members%20Screenshot.png) |
 
