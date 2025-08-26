@@ -92,5 +92,5 @@ A comprehensive Fitness Analytics Dashboard designed to track member health, vis
 | Home | Overall|
 |------|--------|
 
-|![Home]()|![Overall]()|
+|![Home](Home Screenshot.png)|![Overall]()|
 
